@@ -1,0 +1,9 @@
+.venv/
+soundfonts/*.sf2
+__pycache__/
+*.egg-info/
+examples/*.wav
+
+# Large binary assets excluded from GitHub backup (exceed 100MB limit)
+releases/mmcp-0.1.0.zip
+soundfonts/*.sf2
